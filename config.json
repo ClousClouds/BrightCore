@@ -1,0 +1,14 @@
+{
+    "proxy_host": "0.0.0.0",
+    "proxy_port": 19132,
+    "target_servers": {
+        "lobby": {"host": "127.0.0.1", "port": 19132},
+        "survival": {"host": "127.0.0.2", "port": 19133},
+        "oneblock": {"host": "127.0.0.3", "port": 19134}
+    },
+    "commands": {
+        "survival": "survival",
+        "oneblock": "oneblock"
+    },
+    "log_file": "logs/proxy.log"
+}
