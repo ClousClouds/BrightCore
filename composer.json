@@ -13,10 +13,7 @@
             "email": "nurazligaming@gmail.com"
         }
     ],
-    "require": {
-	"pocketmine/raklib": "1.1.1",
-	"pocketmine/bedrock-protocol": "35.0.3"
-    },
+    "require": {},
     "require-dev": {
 	"pocketmine/pocketmine-mp": "^5"
     }
