@@ -12,7 +12,7 @@ jobs:
     name: Run Test
     runs-on: ubuntu-latest
     steps:
-    - uses: pmmp/setup-php-action@v3
+    - uses: pmmp/setup-php-action@3.2.0
       with:
         php-version: '8.2'
 
